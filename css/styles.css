@@ -1,0 +1,24 @@
+.carousel-item{
+    padding-top: 2%;
+    background-color:#F4FCD9;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+#carouselExampleControls{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color:#F4FCD9;
+    margin: 0;
+}
+span{
+    background-color:black;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
